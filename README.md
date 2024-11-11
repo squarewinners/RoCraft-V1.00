@@ -3,4 +3,4 @@ RoCraft is a script for roblox that has colors: Red, orange, yellow, green, blue
 
 
 
-DISCORD: 
+DISCORD: https://discord.gg/7VMerCXJ

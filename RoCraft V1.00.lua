@@ -26,7 +26,7 @@ screenGui.Parent = player.PlayerGui
 
 local colorDisplay = Instance.new("TextLabel")
 colorDisplay.Size = UDim2.new(0, 200, 0, 50)
-colorDisplay.Position = UDim2.new(0, 700, 0, 200)
+colorDisplay.Position = UDim2.new(0, 1000, 0, 200)
 colorDisplay.TextColor3 = Color3.fromRGB(255, 255, 255) 
 colorDisplay.BackgroundTransparency = 1 
 colorDisplay.TextStrokeTransparency = 0
